@@ -1,5 +1,9 @@
 # DISCORD SERVER: https://discord.gg/t8sgJFct6Y
 ok
+# HOW TO RUN
+Run installer.bat, then enter your script inside script-here.txt. Also, put the modules required if you need any (i.e import time, os, sys, random, string;from time import sleep;from random import randint as rd). Next, simply run the script!
+# Stuff to not delete
+script-here.txt, imports-here.txt, the src folder, config.json, the script itself
 # What is IDK-Obfuscator?
 An obfuscator (a program that makes scripts "unreadable", basically) that works more well than others (obviously because its paid).
 # What is the price?
