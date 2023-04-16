@@ -7,7 +7,7 @@ script-here.txt, imports-here.txt, the src folder, config.json, the script itsel
 # What is IDK-Obfuscator?
 An obfuscator (a program that makes scripts "unreadable", basically) that works more well than others (obviously because its paid).
 # What is the price?
-99-249 robux (yea im doing robux payments lmfao)
+99-499 robux (yea im doing robux payments lmfao)
 # Why is this obfuscator paid?
 idk
 # Why should I buy IDK Obfuscator?
