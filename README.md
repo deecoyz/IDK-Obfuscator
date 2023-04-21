@@ -1,5 +1,5 @@
-# DISCORD SERVER: https://discord.gg/t8sgJFct6Y
-ok
+# discord server got deleted by discord so dm me
+veryverykewl#6620
 # HOW TO RUN
 Run installer.bat, then enter your script inside script-here.txt. Also, put the modules required if you need any (i.e import time, os, sys, random, string;from time import sleep;from random import randint as rd). Next, simply run the script!
 # Stuff to not delete
